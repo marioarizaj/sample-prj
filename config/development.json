@@ -1,0 +1,9 @@
+{
+  "dbHost": "127.0.0.1",
+  "dbPort": "5432",
+  "dbUser": "postgres",
+  "dbPassword": "sample",
+  "dbName": "sample",
+  "port": ":8080",
+  "domain": "localhost"
+}
